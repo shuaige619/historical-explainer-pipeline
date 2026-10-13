@@ -1,0 +1,4 @@
+interface:
+  display_name: "Historical Explainer Pipeline"
+  short_description: "Orchestrate historical explainer video production"
+  default_prompt: "Use $historical-explainer-pipeline to create a complete vertical historical explainer video workflow."

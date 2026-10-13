@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "historical-explainer-pipeline",
+  "source_version": "425332ff2a9fd0d38d4150e3b7cf5b7e3f7f736f0ddd95a620e7bd7d90a4f5e8",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "cf2e3ea0f97af7dd0d56006c3c3f9ec74f080a6ac577faff5d41bf6bf09947cf",
+    "SKILL.md": "7ef62d85ec1e972dfb3ff647feba2119976c5b9790280e51b0655d38252807b7",
+    "agents/openai.yaml": "aec3ab20305fa2daab3dc34d4b96fdf95200a351fd19bf0de1d556e2cec4f7af"
+  }
+}
